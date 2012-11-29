@@ -2,7 +2,7 @@
 <nsJavaModule:JavaModule xmlns:nsJavaModule="http://xcp.emc.com/javamodule" 
 	urn="urn:dev:com.emc.xcp.artifact.javamodule.category:Artifacts/Java Modules/xcp2_PDFFormsxTractor.javamodule" 
 	categoryId="com.emc.xcp.artifact.javamodule.category" name="xcp2_PDFFormsxTractor.javamodule" label="PDF Forms xTractor" 
-	implementationClass="com.aerow.xcp.ExtractFormData">
+	implementationClass="com.emc.xcp.xcelerator.pdfformxtractor.ExtractFormData">
 	
   <implementationJars contentPath="content/modules/xcp2_PDFFormsxTractor.jar"/>
   <implementationJars contentPath="content/modules/iText-5.0.5.jar"/>
